@@ -1,14 +1,15 @@
 
 #include <iostream>
+using namespace std;
 
 int main()
 {
     //H Shaped Stars
-    std::cout << "*   *" << std::endl;
-    std::cout << "*   *" << std::endl;
-    std::cout << "*****" << std::endl;
-    std::cout << "*   *" << std::endl;
-    std::cout << "*   *" << std::endl;
+    cout << "*   *" << endl;
+    cout << "*   *" << endl;
+    cout << "*****" << endl;
+    cout << "*   *" << endl;
+    cout << "*   *" << endl;
 
     return 0;
 }
