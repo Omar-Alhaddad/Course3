@@ -6,7 +6,7 @@ int main()
 {
     //My Information Card
     string Name = "Omar Al-haddad";
-    int Age = 27;
+    short Age = 27;
     string City = "Mukalla";
     string Country = "Yemen";
     float MonthlySalary = 5000;

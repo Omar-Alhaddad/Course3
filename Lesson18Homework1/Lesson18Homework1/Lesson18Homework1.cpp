@@ -6,7 +6,7 @@ int main()
 {
     //My Information Card
     string Name;
-    int Age;
+    short Age;
     string City;
     string Country;
     float MonthlySalary;
